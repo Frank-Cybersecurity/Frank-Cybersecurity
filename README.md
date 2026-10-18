@@ -6,7 +6,8 @@ My background includes more than 16 years of experience supporting users, endpoi
 
 ## Current Focus
 
-* Preparing for the ISC2 CISSP examination
+* Preparing for Microsoft Certified: Identity and Access Administrator Associate
+* SC300: Microsoft Identity and Access Administrator
 * Building a Windows Server cybersecurity home lab
 * Strengthening incident investigation and security analysis skills
 * Practicing Active Directory and identity security
